@@ -2162,6 +2162,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 1199px) {
   .banner-left h1 {
     font-size: 45px;
+    padding-top: 70px;
   }
 }
 
@@ -2174,6 +2175,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 800px) {
   .banner-left {
     padding-bottom: 40px;
+    padding-top: 70px;
   }
 }
 
